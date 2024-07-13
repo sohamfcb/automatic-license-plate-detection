@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+myvenv/
+cars_license_plate_yolov8_(1).ipynb
+cars.png
+cars2.png
+cars3.png
+Cars164.txt
+demo.mp4
+license_plate_yolov8n.pt
+app.py
+license_detector_test.ipynb
